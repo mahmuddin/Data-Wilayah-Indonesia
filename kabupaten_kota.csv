@@ -8,7 +8,7 @@ kode_kabupaten,name
 11.07,Pidie
 11.08,Aceh Utara
 11.09,Simeulue
-11.1,Aceh Singkil
+11.10,Aceh Singkil
 11.11,Bireuen
 11.12,Aceh Barat Daya
 11.13,Gayo Lues
@@ -31,7 +31,7 @@ kode_kabupaten,name
 12.07,Deli Serdang
 12.08,Simalungun
 12.09,Asahan
-12.1,Labuhanbatu
+12.10,Labuhanbatu
 12.11,Dairi
 12.12,Toba
 12.13,Mandailing Natal
@@ -41,7 +41,7 @@ kode_kabupaten,name
 12.17,Samosir
 12.18,Serdang Bedagai
 12.19,Batu Bara
-12.2,Padang Lawas Utara
+12.20,Padang Lawas Utara
 12.21,Padang Lawas
 12.22,Labuhanbatu Selatan
 12.23,Labuhanbatu Utara
@@ -64,7 +64,7 @@ kode_kabupaten,name
 13.07,Lima Puluh Kota
 13.08,Pasaman
 13.09,Kepulauan Mentawai
-13.1,Dharmasraya
+13.10,Dharmasraya
 13.11,Solok Selatan
 13.12,Pasaman Barat
 13.71,Kota Padang
@@ -83,7 +83,7 @@ kode_kabupaten,name
 14.07,Rokan Hilir
 14.08,Siak
 14.09,Kuantan Singingi
-14.1,Kepulauan Meranti
+14.10,Kepulauan Meranti
 14.71,Kota Pekanbaru
 14.72,Kota Dumai
 15.01,Kerinci
@@ -106,7 +106,7 @@ kode_kabupaten,name
 16.07,Banyuasin
 16.08,Ogan Komering Ulu Timur
 16.09,Ogan Komering Ulu Selatan
-16.1,Ogan Ilir
+16.10,Ogan Ilir
 16.11,Empat Lawang
 16.12,Penukal Abab Lematang Ilir
 16.13,Musi Rawas Utara
@@ -133,7 +133,7 @@ kode_kabupaten,name
 18.07,Lampung Timur
 18.08,Way Kanan
 18.09,Pesawaran
-18.1,Pringsewu
+18.10,Pringsewu
 18.11,Mesuji
 18.12,Tulang Bawang Barat
 18.13,Pesisir Barat
@@ -168,7 +168,7 @@ kode_kabupaten,name
 32.07,Ciamis
 32.08,Kuningan
 32.09,Cirebon
-32.1,Majalengka
+32.10,Majalengka
 32.11,Sumedang
 32.12,Indramayu
 32.13,Subang
@@ -195,7 +195,7 @@ kode_kabupaten,name
 33.07,Wonosobo
 33.08,Magelang
 33.09,Boyolali
-33.1,Klaten
+33.10,Klaten
 33.11,Sukoharjo
 33.12,Wonogiri
 33.13,Karanganyar
@@ -205,7 +205,7 @@ kode_kabupaten,name
 33.17,Rembang
 33.18,Pati
 33.19,Kudus
-33.2,Jepara
+33.20,Jepara
 33.21,Demak
 33.22,Semarang
 33.23,Temanggung
@@ -235,7 +235,7 @@ kode_kabupaten,name
 35.07,Malang
 35.08,Lumajang
 35.09,Jember
-35.1,Banyuwangi
+35.10,Banyuwangi
 35.11,Bondowoso
 35.12,Situbondo
 35.13,Probolinggo
@@ -245,7 +245,7 @@ kode_kabupaten,name
 35.17,Jombang
 35.18,Nganjuk
 35.19,Madiun
-35.2,Magetan
+35.20,Magetan
 35.21,Ngawi
 35.22,Bojonegoro
 35.23,Tuban
@@ -300,7 +300,7 @@ kode_kabupaten,name
 53.07,Sikka
 53.08,Ende
 53.09,Ngada
-53.1,Manggarai
+53.10,Manggarai
 53.11,Sumba Timur
 53.12,Sumba Barat
 53.13,Lembata
@@ -310,7 +310,7 @@ kode_kabupaten,name
 53.17,Sumba Tengah
 53.18,Sumba Barat Daya
 53.19,Manggarai Timur
-53.2,Sabu Raijua
+53.20,Sabu Raijua
 53.21,Malaka
 53.71,Kota Kupang
 61.01,Sambas
@@ -322,7 +322,7 @@ kode_kabupaten,name
 61.07,Bengkayang
 61.08,Landak
 61.09,Sekadau
-61.1,Melawi
+61.10,Melawi
 61.11,Kayong Utara
 61.12,Kubu Raya
 61.71,Kota Pontianak
@@ -336,7 +336,7 @@ kode_kabupaten,name
 62.07,Seruyan
 62.08,Sukamara
 62.09,Lamandau
-62.1,Gunung Mas
+62.10,Gunung Mas
 62.11,Pulang Pisau
 62.12,Murung Raya
 62.13,Barito Timur
@@ -350,7 +350,7 @@ kode_kabupaten,name
 63.07,Hulu Sungai Tengah
 63.08,Hulu Sungai Utara
 63.09,Tabalong
-63.1,Tanah Bumbu
+63.10,Tanah Bumbu
 63.11,Balangan
 63.71,Kota Banjarmasin
 63.72,Kota Banjarbaru
@@ -378,7 +378,7 @@ kode_kabupaten,name
 71.07,Minahasa Tenggara
 71.08,Bolaang Mongondow Utara
 71.09,Kepulauan Siau Tagulandang Biaro (Sitaro)
-71.1,Bolaang Mongondow Timur
+71.10,Bolaang Mongondow Timur
 71.11,Bolaang Mongondow Selatan
 71.71,Kota Manado
 71.72,Kota Bitung
@@ -393,7 +393,7 @@ kode_kabupaten,name
 72.07,Banggai Kepulauan
 72.08,Parigi Moutong
 72.09,Tojo Una Una
-72.1,Sigi
+72.10,Sigi
 72.11,Banggai Laut
 72.12,Morowali Utara
 72.71,Kota Palu
@@ -406,7 +406,7 @@ kode_kabupaten,name
 73.07,Sinjai
 73.08,Bone
 73.09,Maros
-73.1,Pangkajene Kepulauan
+73.10,Pangkajene Kepulauan
 73.11,Barru
 73.12,Soppeng
 73.13,Wajo
@@ -430,7 +430,7 @@ kode_kabupaten,name
 74.07,Wakatobi
 74.08,Kolaka Utara
 74.09,Konawe Utara
-74.1,Buton Utara
+74.10,Buton Utara
 74.11,Kolaka Timur
 74.12,Konawe Kepulauan
 74.13,Muna Barat
@@ -474,11 +474,11 @@ kode_kabupaten,name
 91.03,Jayapura
 91.05,Kepulauan Yapen
 91.06,Biak Numfor
-91.1,Sarmi
+91.10,Sarmi
 91.11,Keerom
 91.15,Waropen
 91.19,Supiori
-91.2,Mamberamo Raya
+91.20,Mamberamo Raya
 91.71,Kota Jayapura
 92.02,Manokwari
 92.03,Fak Fak
@@ -511,5 +511,5 @@ kode_kabupaten,name
 96.04,Sorong Selatan
 96.05,Raja Ampat
 96.09,Tambrauw
-96.1,Maybrat
+96.10,Maybrat
 96.71,Kota Sorong
